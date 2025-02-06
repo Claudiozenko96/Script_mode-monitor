@@ -1,6 +1,6 @@
 # Script para cambiar a modo monitor
 
-Este script permite cambiar un adaptador de red inalámbrico al modo monitor en Linux y luego volver al modo gestionado.
+Este script permite cambiar un adaptador de red inalámbrico al modo monitor en Linux y luego volver al modo managed.
 
 ## Uso
 
